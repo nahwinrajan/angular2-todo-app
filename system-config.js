@@ -17,7 +17,6 @@ var barrels = [
     '@angular/core',
     '@angular/common',
     '@angular/compiler',
-    '@angular/forms',
     '@angular/http',
     '@angular/router',
     '@angular/platform-browser',
@@ -27,7 +26,6 @@ var barrels = [
     // App specific barrels.
     'app',
     'app/shared',
-    'app/my-newew-component',
     'app/todo-app',
 ];
 var cliSystemConfigPackages = {};
