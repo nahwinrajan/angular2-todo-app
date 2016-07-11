@@ -34,6 +34,8 @@ const barrels: string[] = [
   // App specific barrels.
   'app',
   'app/shared',
+  'app/my-newew-component',
+  'app/todo-app',
   /** @cli-barrel */
 ];
 
